@@ -12,4 +12,5 @@ body {
 .container {
   position: relative;
   font-family: sans-serif;
+  padding: 20px;
 }
