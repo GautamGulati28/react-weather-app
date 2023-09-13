@@ -1,6 +1,6 @@
 # React Weather App with Vite
 
-![Live Site](https://react-weather-app-five-alpha.vercel.app/)
+[Live Site](https://react-weather-app-five-alpha.vercel.app/)
 
 This is a simple weather app built with React and Vite that allows users to get weather information for a specific city. The app is designed with a dark mode theme and utilizes glass morphism for a modern and sleek user interface.
 
