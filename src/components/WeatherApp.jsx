@@ -31,7 +31,7 @@ const WeatherApp = () => {
 
         humidity[0].innerHTML = data.main.humidity+' %';
         wind[0].innerHTML = data.wind.speed+' km/hr';
-        temprature[0].innerHTML = data.main.temp+' C';
+        temprature[0].innerHTML = Math.floor(data.main.temp)+' °C';
         location[0].innerHTML = data.name;
 
         if(data.weather[0].icon==='01d'||data.weather[0].icon==='01n'){
