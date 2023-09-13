@@ -106,7 +106,7 @@
     height: 78px;
     border: none;
     outline: none;
-    border-radius: 40px;
+    border-radius: 50%;
     cursor: pointer;
     background: #444444;
   }
